@@ -70,5 +70,5 @@ The dataset is the **Gas Sensor Array Drift Dataset at Different Concentrations*
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/gas-sensor-analytics.git
-   cd gas-sensor-analytics
+   git clone https://github.com/YOUR_USERNAME/Gas-Sensor-Analytics.git
+   cd Gas-Sensor-Analytics
